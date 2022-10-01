@@ -1,0 +1,24 @@
+{
+  "name": "1tareabootcamp",
+  "version": "1.0.0",
+  "description": "Primer tarea para bootcamp saludar",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanlerLo/JSBootCamp.git"
+  },
+  "keywords": [
+    "Js",
+    "Bootcamp"
+  ],
+  "author": "DanielLoaiza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanlerLo/JSBootCamp/issues"
+  },
+  "homepage": "https://github.com/DanlerLo/JSBootCamp#readme"
+}
